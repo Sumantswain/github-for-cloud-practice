@@ -1,0 +1,11 @@
+    1  git --version
+    2  git config --global user.name "balramswainn"
+    3  git config --global user.email "balramswain789@gmail.com"
+    4  git config --list
+    5  git config --global user.name
+    6  ls -ltr
+    7  cls
+    8  clear
+    9  git config --global user.name
+   10  git config --global --list
+   11  git config --global --list

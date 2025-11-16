@@ -1,6 +1,6 @@
     1  git --version
-    2  git config --global user.name "balramswainn"
-    3  git config --global user.email "balramswain789@gmail.com"
+    2  git config --global user.name 
+    3  git config --global user.email
     4  git config --list
     5  git config --global user.name
     6  ls -ltr
@@ -9,3 +9,12 @@
     9  git config --global user.name
    10  git config --global --list
    11  git config --global --list
+28  git config --list
+   29  git --config --list
+   30  git config --global
+   31  git config --global --list
+   32  git config --list
+   33  git config  --global --list
+   34  git status
+   35  ls -a
+   36  history
